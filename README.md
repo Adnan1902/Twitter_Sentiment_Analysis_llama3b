@@ -16,7 +16,7 @@ This project enables sentiment analysis and tone classification of tweets using 
 
 1. Clone the repository:
     ```bash
-    git clone .git
+    git clone https://github.com/Adnan1902/Twitter_Sentiment_Analysis_llama.git
     cd twitter-sentiment-analysis
     ```
 
